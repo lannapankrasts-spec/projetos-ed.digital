@@ -20,8 +20,9 @@ a{
     border: black 2px;
 }
 .links{
+  display: flex;
 
 
-  
+
 }
 
