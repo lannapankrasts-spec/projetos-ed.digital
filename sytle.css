@@ -1,4 +1,21 @@
-.foto
-  {width: 0,5%}
-body{background-color: blueviolet
-    ;}
+foto{
+    width: 25%;
+}
+
+body{
+    background-color: #f527f5;
+display: flex;
+
+align-items: center;
+justify-content: space-evenly;
+}
+
+div{ margin: 19px;
+    padding: 2px;
+
+}
+
+a{
+    color: blue;
+}
+
