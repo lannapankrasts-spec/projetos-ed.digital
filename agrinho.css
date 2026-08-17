@@ -29,25 +29,45 @@ padding: 20px;
 }
 .verde-escuro{
 background-image: url(captura\ tela\ esc\ copy.PNG);
-
+background-repeat: no-repeat;
+width: 100%;
+height: 100%;
+background-size: cover;
+padding: 20px;
 }
 
 .plantas{
 background-image: url(Captura\ de\ tela\ de\ 2026-07-06\ 10-54-56.png);
-
+background-repeat: no-repeat;
+width: 100%;
+height: 100%;
+background-size: cover;
+padding: 20px;
 }
 
 .folhas{
 background-image: url(captura\ tela\ esc.PNG);
-
+background-repeat: no-repeat;
+width: 100%;
+height: 100%;
+background-size: cover;
+padding: 20px
 }
 
 .planeta{
 background-image: url(captura\ imagem\ esc\ 2.PNG);
-
+background-repeat: no-repeat;
+width: 100%;
+height: 100%;
+background-size: cover;
+padding: 20px
 }
 
 .florestas{
 background-image: url(captura\ imagem\ esc.PNG)
-
+background-repeat: no-repeat;
+width: 100%;
+height: 100%;
+background-size: cover;
+padding: 20px
 }
