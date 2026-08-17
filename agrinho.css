@@ -25,6 +25,7 @@ background-repeat: no-repeat;
 width: 100%;
 height: 100%;
 background-size: cover;
+padding: 20px;
 }
 .verde-escuro{
 background-image: url(captura\ tela\ esc\ copy.PNG);
