@@ -80,3 +80,7 @@ header{
     display: grid;
     grid-template-columns: 33% 33% 33%;
 }
+.planta{
+    display: grid;
+    grid-template-columns:20% 20% 20% 20% 20% ;
+}
