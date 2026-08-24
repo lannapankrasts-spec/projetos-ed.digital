@@ -76,3 +76,7 @@ header{
     display: grid;
     grid-template-columns: 40% 10% 10% 10% 10% 10% 10%;
 }
+.folhas{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
